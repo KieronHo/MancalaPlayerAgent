@@ -2,7 +2,7 @@
 
 /**
  * 
- * @author Kieron Ho 20500057
+ * @author Kieron Ho
  *
  */
 public class MancalaImp implements MancalaAgent {
